@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: clases.CalculosTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.042 s <<< FAILURE! - in clases.CalculosTest
+dividirByZero_should  Time elapsed: 0.027 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Expected java.lang.ArithmeticException to be thrown, but nothing was thrown.
+	at clases.CalculosTest.dividirByZero_should(CalculosTest.java:46)
+
